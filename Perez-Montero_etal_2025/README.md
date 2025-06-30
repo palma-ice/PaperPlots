@@ -48,6 +48,6 @@ Figure A2
 ![](plots/figA2.png)
 Figure A3
 ![](plots/figA3.png)
-Figure A4
+Figure B1
 ![](plots/absolute_periodograms.png)
 
