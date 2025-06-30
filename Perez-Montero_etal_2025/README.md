@@ -10,32 +10,20 @@ https://github.com/sperezmont/Perez-Montero-etal_2025_ESD
 
 Figure 1
 ![](plots/fig01.png)
-Figure 2
-![](plots/fig02.png)
 Figure 3
 ![](plots/fig03.png)
-Figure 4
-![](plots/fig04.png)
 Figure 5
 ![](plots/fig05.png)
-Figure 6
-![](plots/fig06.png)
 Figure 7
 ![](plots/fig07.png)
 Figure 8
 ![](plots/fig08.png)
 Figure 9
 ![](plots/fig09.png)
-Figure 10
-![](plots/fig10.png)
 Figure 11
 ![](plots/fig11.png)
-Figure 12
-![](plots/fig12.png)
 Figure 13
 ![](plots/fig13.png)
-Figure 14
-![](plots/fig14.png)
 Figure 15
 ![](plots/fig15.png)
 Figure 16
